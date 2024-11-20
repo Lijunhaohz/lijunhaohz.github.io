@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* B.Eng. in Electrical and Computer Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2025
+  * College: [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/)
+  * Overall GPA: 3.96/4.00 (Rank: 2/132)
+* Exchange Student in Electrical Engineering, [Carnegie Mellon University](https://www.cmu.edu/), 2023
+  * College: College of Engineering
+  * Overall GPA: 4.00/4.00
+  
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,7 +33,7 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
