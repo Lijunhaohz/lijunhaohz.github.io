@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-10-21-mtsci
 excerpt: 'This paper is about multivariate time series consistent imputation.'
 date: 2024-10-21
-venue: 'Journal 1'
+venue: 'CIKM'
 paperurl: 'https://dl.acm.org/doi/10.1145/3627673.3679532'
 citation: 'Jianping Zhou, Junhao Li, Guanjie Zheng, Xinbing Wang, and Chenghu Zhou. (2024). &quot;MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation.&quot; <i>In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 24)</i>. Association for Computing Machinery, New York, NY, USA, 3474–3483. https://doi.org/10.1145/3627673.3679532'
 ---
