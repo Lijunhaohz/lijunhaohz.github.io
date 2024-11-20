@@ -2,7 +2,7 @@
 title: "MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-10-21-mtsci
 excerpt: 'This paper is about multivariate time series consistent imputation.'
 date: 2024-10-27
 venue: 'GitHub Journal of Bugs'
