@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 5"
+title: "MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024-10-21-mtsci
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2024-10-21
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
