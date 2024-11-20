@@ -1,0 +1,13 @@
+---
+title: "FedGraph: A Research Library and Benchmark for Federated Graph Learning"
+collection: publications
+category: preprints
+permalink: /publication/2024-10-08-fedgraph
+excerpt: 'This paper is about a benchmark for federated graph learning.'
+date: 2024-04-29
+venue: 'ArXiv (Preprint)'
+paperurl: 'https://arxiv.org/pdf/2410.06340'
+citation: 'Yuhang Yao, Yuan Li, Xinyi Fan, Junhao Li, Kay Liu, Weizhao Jin, Srivatsan Ravi, Philip S. Yu, Carlee Joe-Wong. (2024). &quot;FedGraph: A Research Library and Benchmark for Federated Graph Learning.&quot; <i>ArXiv (Preprint)</i>.'
+---
+
+Federated graph learning is an emerging field with significant practical challenges. While many algorithms have been proposed to enhance the accuracy of training graph neural networks, e.g., for node classification problems on large graphs, in a federated manner, their system performance is often overlooked, even though it is crucial for real-world deployment. To address this gap, we introduce FedGraph, a research library built for practical distributed deployment and benchmarking in federated graph learning. FedGraph supports a range of state-of-the-art graph learning methods and includes built-in profiling tools to evaluate system performance, focusing specifically on communication and computation costs during training. Unlike existing benchmark platforms, FedGraph natively incorporates homomorphic encryption to enhance privacy preservation and facilitates the development of practical applications by enabling distributed training across multiple physical machines, providing an evaluation framework that can guide the system design of future federated graph learning algorithms. Leveraging these optimizations, we use FedGraph to demonstrate the first privacy-preserving federated learning system to run on graphs with 100 million nodes.
