@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Junhao Li"
   pronouns         : "he/him" 
-  bio              : "I am a senior undergraduate student at Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering."
+  bio              : "I am a senior at Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering."
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
-  uri              : # URL
+  uri              : "lijunhaohz.github.io"
   email            : "lijunhao_hz@sjtu.edu.cn"
 
   # Academic websites

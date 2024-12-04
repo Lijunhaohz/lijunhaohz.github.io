@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical and Computer Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2025
-  * College: [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/)
+* B.Eng. in Electrical and Computer Engineering, **Shanghai Jiao Tong University** [(URL)](https://en.sjtu.edu.cn/)
+  * Duration: Sept 2021 - Aug 2025
+  * College: University of Michigan - Shanghai Jiao Tong University Joint Institute [(URL)](https://www.ji.sjtu.edu.cn/)
   * Overall GPA: 3.96/4.00 (Rank: 2/132)
-* Exchange Student in Electrical Engineering, [Carnegie Mellon University](https://www.cmu.edu/), 2023
+* Exchange Student in Electrical Engineering, **Carnegie Mellon University**[(URL)](https://www.cmu.edu/)
+  * Duration: Jan 2024 - May 2024
   * College: College of Engineering
   * Overall GPA: 4.00/4.00
   
@@ -35,26 +37,30 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023-2024 National Scholarship of China
+* 2023-2024 The SJTU A-level Undergraduate Excellent Scholarship (top 1%)
+* 2023-2024 The Sam & Daisy Wu Scholarship
+* 2024 Spring Carnegie Mellon University Dean's List
+* 2022-2023 National Scholarship of China
+* 2022-2023 The SJTU A-level Undergraduate Excellent Scholarship (top 1%)
+* 2022-2023 The Jone Wu & Jane Sun Excellence Scholarship (full tuition)
+* 2021-2022 National Scholarship of China
+* 2021-2022 The SJTU A-level Undergraduate Excellent Scholarship (top 1%)
+* 2021-2022 The Fuda Scholarship
 
-Publications
+Publications and Preprints
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -65,3 +71,12 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
