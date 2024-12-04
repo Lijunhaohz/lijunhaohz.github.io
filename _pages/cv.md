@@ -68,15 +68,24 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Extra-curricular Services
 ======
-* Currently signed in to 43 different slack teams
+* Supervisor of the Student Advising Center, University of Michigan - Shanghai Jiao Tong University Joint Institute
+* Minister of Career Department of 17th Students' Union, University of Michigan - Shanghai Jiao Tong University Joint Institute
+
+Core Courses
+======
+* **Computer Science and Engineering:** Introduction to Operating Systems, Introduction to Computer Organization, Data Structures and Algorithms, Programming and Elementary Data Structures.
+* **Machine Learning:** Introduction to Machine Learning for Engineers, Applied Machine Learning.
+* **Software Development:** Full-stack Development for Engineers, Introduction to Software Engineering.
+* **Data Science:** Data Science and Analytics Using Python.
+* **Electrical Engineering:** Signals and Systems, Electronic Circuits, Electromagnetics.
+* **Mathematics:** Discrete Mathematics, Linear Algebra, Differential Equations, Probability and Statistics, Calculus.
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** C, C++, Python, JavaScript, TypeScript, Verilog, MATLAB, Elm.
+* **Machine Learning Frameworks:** PyTorch, PyG, TensorFlow, Scikit-learn, Numpy, Pandas.
+* **Web Development:** Vue.js, Node.js, Element Plus, Axios, Express, WebSockets, MongoDB.
+* **Language Skills:** English (TOEFL: 107/220, GRE 330/340), Chinese (Native).
+* **Miscellaneous:** Git, Linux, LaTeX, Markdown.
